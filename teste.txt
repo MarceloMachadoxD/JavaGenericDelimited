@@ -1,0 +1,3 @@
+iPhone6,3000.00
+XiaomiRN7,1200.00
+SamsungS10,2000.00
